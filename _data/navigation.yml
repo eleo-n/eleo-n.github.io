@@ -1,5 +1,7 @@
-- name: Gallery
+- name: Home
   link: /
+- name: Gallery
+  link: /gallery/
 - name: About
   link: /about/
 - name: Contact
