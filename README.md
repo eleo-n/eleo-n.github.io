@@ -116,3 +116,9 @@ See the [source license](/LICENSE-source).
 If you reuse this project (such as fork or generate from template) or copy a large portion, you must **include** these licenses.
 
 Please include a link make to this repo in your site or docs.
+
+# Acknowledgements
+
+Based on these two templates:
+- https://github.com/MichaelCurrin/artists-portfolio
+- https://github.com/eliahuhorwitz/Academic-project-page-template
