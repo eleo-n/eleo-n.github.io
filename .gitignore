@@ -1,0 +1,13 @@
+cache/
+_site/
+*.lock
+
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+vendor/
+.bundle/
+
+DS_Store
+static/images/.DS_Store

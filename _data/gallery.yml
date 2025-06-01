@@ -1,0 +1,44 @@
+group_a:
+  title: "Кони"
+  photos:
+    # - image: /uploads/1.jpg
+    #   caption: Flamingo - San Jose, US
+    # - image: /uploads/2.jpg
+    #   caption: Giraffe - Wellington, NZ
+    # - image: /uploads/3.jpg
+    #   caption: Penguin - Mexico City, MX
+    # - image: /uploads/4.jpg
+    #   caption: Kingfisher - London, GB
+    # - image: /uploads/5.jpg
+    #   caption: Zebra - Vegas, US
+    - image: /static/images/horses/horse_1.jpeg
+      caption: Красный конь 1
+    - image: /static/images/horses/horse_2.jpeg
+      caption: Красный конь 2
+    - image: /static/images/horses/horse_3.jpeg
+      caption: Красный конь 3
+    - image: /static/images/horses/horse_4.jpeg
+      caption: Красный конь 4
+    - image: /static/images/horses/horse_5.jpeg
+      caption: Красный конь 5
+
+group_b:
+  title: "Цыплята"
+  photos:
+    - image: /static/images/chickens/chicken_1.jpeg
+      caption: Желтый цыпёнок 1
+    - image: /static/images/chickens/chicken_2.jpeg
+      caption: Желтый цыпёнок 2
+    - image: /static/images/chickens/chicken_3.jpeg
+      caption: Желтый цыпёнок 3
+    - image: /static/images/chickens/chicken_4.jpeg
+      caption: Желтый цыпёнок 4
+
+    # - image: /uploads/6.jpg
+    #   caption: Fox - San Diego, US
+    # - image: /uploads/7.jpg
+    #   caption: Parrot - Queenstown, NZ
+    # - image: /uploads/8.jpg
+    #   caption: Peacock - Seattle, US
+    # - image: /uploads/9.jpg
+    #   caption: Pig - Bangkok, TH
